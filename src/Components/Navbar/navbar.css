@@ -1,0 +1,12 @@
+
+
+.linkList li a {
+    text-decoration: none;
+}
+
+.bg-light a {
+    color: black;
+}
+.bg-dark a {
+    color: white;
+}
